@@ -16,6 +16,4 @@ Nous avons récolté des données à propos d'utilisateurs du site d'une entrepr
 
 2. Trouver des recommendations à faire pour l'équipe Produit & Marketing afin qu'ils puissent améliorer ce taux de conversion.
 
-## Données
 
-Vous pourrez trouver les données dans votre dossier Projet -- CONVERSION RATE
